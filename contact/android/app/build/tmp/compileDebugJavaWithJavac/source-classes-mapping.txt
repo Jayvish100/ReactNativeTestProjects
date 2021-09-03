@@ -1,0 +1,14 @@
+com/contact/MainActivity.java
+ com.contact.MainActivity
+com/contact/MainApplication.java
+ com.contact.MainApplication
+ com.contact.MainApplication$1
+com/contact/ReactNativeFlipper.java
+ com.contact.ReactNativeFlipper
+ com.contact.ReactNativeFlipper$1
+ com.contact.ReactNativeFlipper$2
+ com.contact.ReactNativeFlipper$2$1
+com/contact/BuildConfig.java
+ com.contact.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
