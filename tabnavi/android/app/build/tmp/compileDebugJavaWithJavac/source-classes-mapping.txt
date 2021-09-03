@@ -1,0 +1,14 @@
+com/tabnavi/MainActivity.java
+ com.tabnavi.MainActivity
+com/tabnavi/BuildConfig.java
+ com.tabnavi.BuildConfig
+com/tabnavi/ReactNativeFlipper.java
+ com.tabnavi.ReactNativeFlipper
+ com.tabnavi.ReactNativeFlipper$1
+ com.tabnavi.ReactNativeFlipper$2
+ com.tabnavi.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/tabnavi/MainApplication.java
+ com.tabnavi.MainApplication
+ com.tabnavi.MainApplication$1
