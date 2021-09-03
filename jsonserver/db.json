@@ -1,0 +1,66 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "API POST",
+      "content": "content of the post"
+    },
+    {
+      "title": "New Api post",
+      "content": "And some content",
+      "id": 2
+    },
+    {
+      "title": "Thirdly posts",
+      "content": "Some content",
+      "id": 3
+    },
+    {
+      "title": "Ggujhhhhh",
+      "content": "Ttttttttt",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "id": "1",
+      "title": "Taylor Swift",
+      "artist": "Taylor Swift",
+      "url": "https://www.amazon.com/Taylor-Swift/dp/B0014I4KH6",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71LVEINqZaL._SX425_.jpg",
+      "thumbnail_image": "https://i.imgur.com/K3KJ3w4h.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Fearless",
+      "artist": "Taylor Swift",
+      "url": "https://www.amazon.com/Fearless-Enhanced-Taylor-Swift/dp/B001EYGOEM",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61D2Zlcj1FS._SX425_.jpg",
+      "thumbnail_image": "https://i.imgur.com/K3KJ3w4h.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Speak Now",
+      "artist": "Taylor Swift",
+      "url": "https://www.amazon.com/Speak-Now-Taylor-Swift/dp/B003WTE886",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71%2Bq4wh2%2BYL._SX425_.jpg",
+      "thumbnail_image": "https://i.imgur.com/K3KJ3w4h.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Red",
+      "artist": "Taylor Swift",
+      "url": "https://www.amazon.com/Red-Taylor-Swift/dp/B008XNZMOU",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41j7-7yboXL._SX425_.jpg",
+      "thumbnail_image": "https://i.imgur.com/K3KJ3w4h.jpg"
+    },
+    {
+      "id": "5",
+      "title": "1989",
+      "artist": "Taylor Swift",
+      "url": "https://www.amazon.com/1989-Taylor-Swift/dp/B00MRHANNI",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/717DWgRftmL._SX425_.jpg",
+      "thumbnail_image": "https://i.imgur.com/K3KJ3w4h.jpg"
+    }
+  ]
+}
