@@ -1,0 +1,83 @@
+
+
+0. Initiate the Project
+
+npx expo-cli init project --npm
+
+
+
+
+
+1. Install React Navigation
+
+npm install react-navigation
+
+or
+
+yarn add react-navigation
+
+
+
+
+
+
+2. Install Dependencies
+
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+
+
+
+
+
+3. Install React Navigation Stack
+
+npm install react-navigation-stack @react-native-community/masked-view
+
+or
+
+yarn add react-navigation-stack @react-native-community/masked-view
+
+
+
+
+
+
+/////////// For Tab Navigation ////////////
+
+4. Install React Navigation Tabs
+
+npm install react-navigation-tabs
+
+or
+
+yarn add react-navigation-tabs
+
+
+
+
+
+
+
+
+
+/////////////// Async Storage //////////////
+
+To resolve this, we need to install the following library:
+
+npm install @react-native-async-storage/async-storage
+
+
+
+Then, update the import in AuthContext to this:
+
+import AsyncStorage from '@react-native-async-storage/async-storage';
+
+
+
+
+
+
+
+
+5. Start the app and clear cache with expo r -c
